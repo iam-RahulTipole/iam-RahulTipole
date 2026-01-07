@@ -1,4 +1,6 @@
-# Hi 👋, I'm iam-RahulTipole
+# Hi 👋, I'm Rahul
+
+#A young-dumb 🤓 DevOps SWE from India 🇮🇳
 
 ### A passionate developer from around the world
 
